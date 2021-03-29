@@ -1,2 +1,2 @@
-# storyboard_delegate_closure-pratice
+# storyboard_delegate_closure-practice
 ストーリーボードとデリゲートとクロージャを練習したプロジェクト
