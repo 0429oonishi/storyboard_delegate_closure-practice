@@ -1,2 +1,1 @@
-#storyboard_delegate_closure
 ストーリーボードとデリゲートとクロージャを練習したプロジェクト
